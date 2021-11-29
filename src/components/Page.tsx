@@ -1,13 +1,13 @@
 import React from 'react';
 import Oscillator from './Oscillator';
-import Display from './Display';
+// import Display from './Display';
 
 const Page = () => {
 
     return (
         <div>
             <Oscillator />
-            <Display />
+            {/* <Display /> */}
         </div>
     )
 }
